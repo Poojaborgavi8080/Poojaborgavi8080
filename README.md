@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Pooja+Borgavi;Java+Developer+%7C+Java+Expert;DaData+Analyst+%7C+Data+Analytics+Enthusiast;Building+Scalable+Solutions+%F0%9F%9A%80;Open+to+New+Opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Pooja+Borgavi;Java+Developer+%7C+Java+Expert;DaDData+Analyst+%7C+Data+Analytics+Enthusiast;Building+Scalable+Solutions+%F0%9F%9A%80;Open+to+New+Opportunities!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -127,7 +127,7 @@ dataAnalytics: {
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
 </p>
-### 🗄️ Databases
+ 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
