@@ -24,7 +24,7 @@
 
 ```typescript
 const pooja = {
-    role: "Backend Developer",
+    role: "Java Developer & Data Analyst",
     code: ["Java", "Python", "C++",  "SQL"],
     technologies: {
         backend: {
@@ -35,6 +35,17 @@ const pooja = {
         frontend: ["Angular",  "HTML5", "CSS3"],
         tools: ["Git", "Maven", "Postman", "IntelliJ IDEA", "VS Code"],
         architecture: ["Microservices", "Monolithic", "REST API", "MVC"]
+    },
+dataAnalytics: {
+        tools: ["Python", "Excel", "Power BI"],
+        libraries: ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
+        skills: [
+            "Data Cleaning",
+            "Data Visualization",
+            "Exploratory Data Analysis (EDA)",
+            "Statistical Analysis",
+            "Dashboard Creation"
+        ]
     },
     experience: {
         company: "HefShine Softwares",
