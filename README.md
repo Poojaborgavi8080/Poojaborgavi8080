@@ -1,11 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Pooja+Borgavi;Java+Developer+%7C+Java+Expert;Data+Analyst+%7C+Data+Analytics+Enthusiast;Building+Scalable+Solutions+%F0%9F%9A%80;Open+to+New+Opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Pooja+Borgavi;Java+Developer+%7C+Java+Expert;DaData+Analyst+%7C+Data+Analytics+Enthusiast;Building+Scalable+Solutions+%F0%9F%9A%80;Open+to+New+Opportunities!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Poojaborgavi8080&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Poojaborgavi8080?label=Followers&style=for-the-badge&color=blue" alt="followers" />
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-brightgreen?style=for-the-badge" alt="focus" />
+    <img src="https://img.shields.io/badge/Focus-Data%20Anayst-brightgreen?style=for-the-badge" alt="focus" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge" alt="status" />
 </p>
 
@@ -95,11 +96,11 @@ dataAnalytics: {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🛠️ Tech Stack & Skills
+ 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-### 💻 Programming Languages
+ 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -107,7 +108,7 @@ dataAnalytics: {
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🚀 Backend Frameworks & Tools
+🚀 Backend Frameworks & Tools
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -116,7 +117,7 @@ dataAnalytics: {
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
 </p>
-### 📊 Data Analytics Technologies
+ 📊 Data Analytics Technologies
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
